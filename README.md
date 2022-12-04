@@ -1,2 +1,3 @@
 # Java-Projects-
-projects I did in my first year of Computer Science in University
+projects I did doing Computer Science at University Of Birmingham
+
